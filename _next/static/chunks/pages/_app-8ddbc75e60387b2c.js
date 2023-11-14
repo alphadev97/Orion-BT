@@ -1373,41 +1373,41 @@
             t.disclaimerConcent && a(!1);
           }, [t.disclaimerConcent]),
           (0, i.jsx)("div", {
-            className:
-              "fixed top-0 left-0 w-full h-full bg-dark/80 backdrop-blur-md z-[999999] items-center justify-center ".concat(
-                o ? "flex" : "hidden"
-              ),
-            children: (0, i.jsxs)("div", {
-              className:
-                "max-w-4xl w-10/12 bg-dark shadow-md shadow-dark/80 p-8 border border-semi-dark/50",
-              children: [
-                (0, i.jsx)("div", {
-                  children: (0, i.jsx)("h3", {
-                    className: "text-gold text-3xl font-serif",
-                    children: "Disclaimer",
-                  }),
-                }),
-                (0, i.jsx)("div", {
-                  className:
-                    "text-white space-y-4 h-[50vh] overflow-y-auto mt-8 pr-4",
-                  children: (0, i.jsx)(b.Z, {}),
-                }),
-                (0, i.jsxs)("div", {
-                  className:
-                    "flex items-center justify-center gap-8 text-gold mt-8",
-                  children: [
-                    (0, i.jsx)("button", {
-                      onClick: () => l(),
-                      children: "I Accept",
-                    }),
-                    (0, i.jsx)("button", {
-                      onClick: () => c(),
-                      children: "I Decline",
-                    }),
-                  ],
-                }),
-              ],
-            }),
+            // className:
+            //   "fixed top-0 left-0 w-full h-full bg-dark/80 backdrop-blur-md z-[999999] items-center justify-center ".concat(
+            //     o ? "flex" : "hidden"
+            //   ),
+            // children: (0, i.jsxs)("div", {
+            //   className:
+            //     "max-w-4xl w-10/12 bg-dark shadow-md shadow-dark/80 p-8 border border-semi-dark/50",
+            //   children: [
+            //     (0, i.jsx)("div", {
+            //       children: (0, i.jsx)("h3", {
+            //         className: "text-gold text-3xl font-serif",
+            //         children: "Disclaimer",
+            //       }),
+            //     }),
+            //     (0, i.jsx)("div", {
+            //       className:
+            //         "text-white space-y-4 h-[50vh] overflow-y-auto mt-8 pr-4",
+            //       children: (0, i.jsx)(b.Z, {}),
+            //     }),
+            //     (0, i.jsxs)("div", {
+            //       className:
+            //         "flex items-center justify-center gap-8 text-gold mt-8",
+            //       children: [
+            //         (0, i.jsx)("button", {
+            //           onClick: () => l(),
+            //           children: "I Accept",
+            //         }),
+            //         (0, i.jsx)("button", {
+            //           onClick: () => c(),
+            //           children: "I Decline",
+            //         }),
+            //       ],
+            //     }),
+            //   ],
+            // }),
           })
         );
       }
