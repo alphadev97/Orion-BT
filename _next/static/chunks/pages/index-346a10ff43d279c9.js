@@ -283,7 +283,7 @@
             (0, e.jsx)("div", {
               className: "w-full h-full md:block hidden",
               children: (0, e.jsx)(G(), {
-                animationData: D,
+                // animationData: D,
                 loop: !1,
                 className: "min-w-full min-h-full",
               }),
