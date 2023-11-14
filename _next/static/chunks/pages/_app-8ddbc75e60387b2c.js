@@ -1297,63 +1297,63 @@
               c ? "block" : "hidden",
               " z-[999] fixed bottom-4 right-4 bg-dark text-white shadow-md shadow-dark/80 border border-light/30"
             ),
-            children: (0, i.jsxs)("div", {
-              className: "p-8",
-              children: [
-                (0, i.jsx)("p", { children: "This website uses cookies" }),
-                (0, i.jsxs)("div", {
-                  className: "mt-4",
-                  children: [
-                    (0, i.jsx)("p", {
-                      children: (0, i.jsxs)("label", {
-                        children: [
-                          (0, i.jsx)("input", {
-                            type: "checkbox",
-                            name: "required",
-                            checked: !0,
-                            disabled: !0,
-                          }),
-                          (0, i.jsx)("span", {
-                            className: "ml-2",
-                            children: "Required",
-                          }),
-                        ],
-                      }),
-                    }),
-                    (0, i.jsx)("p", {
-                      children: (0, i.jsxs)("label", {
-                        children: [
-                          (0, i.jsx)("input", {
-                            type: "checkbox",
-                            name: "analytics",
-                            onChange: (e) => l("true" === e.target.value),
-                          }),
-                          (0, i.jsx)("span", {
-                            className: "ml-2",
-                            children: "Analytics",
-                          }),
-                        ],
-                      }),
-                    }),
-                  ],
-                }),
-                (0, i.jsxs)("div", {
-                  className:
-                    " flex items-center justify-between gap-8 text-gold mt-4",
-                  children: [
-                    (0, i.jsx)("button", {
-                      onClick: () => d(),
-                      children: "Accept All",
-                    }),
-                    (0, i.jsx)("button", {
-                      onClick: () => f(),
-                      className: "text-regular",
-                      children: "Accept Selected",
-                    }),
-                  ],
-                }),
-              ],
-            }),
+            // children: (0, i.jsxs)("div", {
+            //   className: "p-8",
+            //   children: [
+            //     (0, i.jsx)("p", { children: "This website uses cookies" }),
+            //     (0, i.jsxs)("div", {
+            //       className: "mt-4",
+            //       children: [
+            //         (0, i.jsx)("p", {
+            //           children: (0, i.jsxs)("label", {
+            //             children: [
+            //               (0, i.jsx)("input", {
+            //                 type: "checkbox",
+            //                 name: "required",
+            //                 checked: !0,
+            //                 disabled: !0,
+            //               }),
+            //               (0, i.jsx)("span", {
+            //                 className: "ml-2",
+            //                 children: "Required",
+            //               }),
+            //             ],
+            //           }),
+            //         }),
+            //         (0, i.jsx)("p", {
+            //           children: (0, i.jsxs)("label", {
+            //             children: [
+            //               (0, i.jsx)("input", {
+            //                 type: "checkbox",
+            //                 name: "analytics",
+            //                 onChange: (e) => l("true" === e.target.value),
+            //               }),
+            //               (0, i.jsx)("span", {
+            //                 className: "ml-2",
+            //                 children: "Analytics",
+            //               }),
+            //             ],
+            //           }),
+            //         }),
+            //       ],
+            //     }),
+            //     (0, i.jsxs)("div", {
+            //       className:
+            //         " flex items-center justify-between gap-8 text-gold mt-4",
+            //       children: [
+            //         (0, i.jsx)("button", {
+            //           onClick: () => d(),
+            //           children: "Accept All",
+            //         }),
+            //         (0, i.jsx)("button", {
+            //           onClick: () => f(),
+            //           className: "text-regular",
+            //           children: "Accept Selected",
+            //         }),
+            //       ],
+            //     }),
+            //   ],
+            // }),
           })
         );
       }
