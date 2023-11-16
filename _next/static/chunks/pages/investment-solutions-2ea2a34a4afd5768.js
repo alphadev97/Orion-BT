@@ -288,522 +288,522 @@
           ],
         },
         footprint: {
-          heading: "Orion’s global footprint & partnerships",
+          // heading: "Orion’s global footprint & partnerships",
           offices: [
-            { cords: { x: 177, y: 229 } },
-            { cords: { x: 252, y: 215 } },
-            { label: "New York (HQ)", cords: { x: 391, y: 180 } },
-            { cords: { x: 692, y: 87 } },
-            { cords: { x: 1450, y: 515 } },
-            { cords: { x: 1432, y: 536 } },
+            // { cords: { x: 177, y: 229 } },
+            // { cords: { x: 252, y: 215 } },
+            // { label: "New York (HQ)", cords: { x: 391, y: 180 } },
+            // { cords: { x: 692, y: 87 } },
+            // { cords: { x: 1450, y: 515 } },
+            // { cords: { x: 1432, y: 536 } },
           ],
           portfolio: [
-            {
-              heading: "UNITED STATES",
-              amount: 21,
-              cords: { x: 300, y: 190 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0007_nevada-copper.png",
-                  label: "Nevada Copper",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0000_i-80-gold-corp.png",
-                  label: "i 80 Gold Corp",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0001_uniformity-labs.png",
-                  label: "Uniformity Labs",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0002_incoa-performace-minerals.png",
-                  label: "Incoa Performance Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0003_sweetwater-royalties.png",
-                  label: "Sweetwater Royalties, Colorado",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0004_equinox-gold.png",
-                  label: "Equinox Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0005_terraco.png",
-                  label: "Terraco",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0006_rio-tinto.png",
-                  label: "Rio Tinto, Montana",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0007_rigel-resources.png",
-                  label: "Rigel Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0008_ivanhoe-electric.png",
-                  label: "Ivanhoe Electric, Utah",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0009_highland-copper-company.png",
-                  label: "Highland Copper Company",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0010_lithium-americas.png",
-                  label: "Lithium Americas",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0011_orla-mining.png",
-                  label: "Orla Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0012_aquila-resources.png",
-                  label: "Aquila Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0015_premier-gold-mines.png",
-                  label: "Premier Gold Mines",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0014_americas-bullion.png",
-                  label: "Americas Bullion",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/north-america_0013_oracle.png",
-                  label: "Oracle",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/orion-new_0001_jetti.png",
-                  label: "Jetti",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/orion-new_0002_verai.png",
-                  label: "Verai",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/orion-new_0003_thea-energy.png",
-                  label: "Thea Energy",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/north-america/orion-new_0004_rondo.png",
-                  label: "Rondo",
-                },
-              ],
-            },
-            {
-              heading: "CANADA",
-              amount: 24,
-              cords: { x: 240, y: 110 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0000_strategic-metals.png",
-                  label: "Strategic Metals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0001_stornoway.png",
-                  label: "Stornoway",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0002_tacora.png",
-                  label: "Tacora",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0003_victoria-gold-corp.png",
-                  label: "Victoria Gold Corp",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0004_western-copper-gold.png",
-                  label: "Western Copper Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0005_sandstorm-gold.png",
-                  label: "Sandstorm Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0006_sabina-gold-silver.png",
-                  label: "Sabina Gold Silver",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0008_revival-gold.png",
-                  label: "Revival Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0009_pretium.png",
-                  label: "Pretium",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0010_nickel-creek-platinum.png",
-                  label: "Nickel Creek Platinum",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0011_nemaska-lithium.png",
-                  label: "Nemaska Lithium",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0012_kiska-metals-corp.png",
-                  label: "Kiska Metals Corp",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0013_harte-gold-corp.png",
-                  label: "Harte Gold Corp",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0014_greenstone-gold.png",
-                  label: "Greenstone Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0015_golden-predator.png",
-                  label: "Golden Predator",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0016_filo-mining.png",
-                  label: "Filo Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0017_eurosun-mining.png",
-                  label: "Eurosun Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0018_edgewater-exploration.png",
-                  label: "Edgewater Exploration",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0019_dundee-precious-metals.png",
-                  label: "Dundee Precious Metals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0020_dore-copper-mining.png",
-                  label: "Dore Copper Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0021_bmc-minerals.png",
-                  label: "BMC Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0022_claude-resources.png",
-                  label: "Claude Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0024_rnc-royal-nickel.png",
-                  label: "RNC Royal Nickel",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/canada/canada_0025_colossus-minerals-inc.png",
-                  label: "Colossus Minerals Inc",
-                },
-              ],
-            },
-            {
-              heading: "Latin America",
-              amount: 16,
-              cords: { x: 370, y: 380 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0000_equinox-gold.png",
-                  label: "Minera la Negra",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0001_minera-la-negra.png",
-                  label: "Incoa Performance Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0002_incoa-performace-minerals.png",
-                  label: "Equinox Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/middle-east-africa_0009_allied-gold.png",
-                  label: "Allied Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0004_rio-tinto.png",
-                  label: "Serra Verde",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0005_serra-verde.png",
-                  label: "Lundin Gold Inc",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0006_lundin-gold-inc.png",
-                  label: "Lundin Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0008_red-eagle-exploration.png",
-                  label: "Horizonte Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0009_horizonte-minerals.png",
-                  label: "Go Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0010_go-gold.png",
-                  label: "Go Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0012_capstone-copper.png",
-                  label: "Aurcana Corporation",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0013_aurcana-corporation.png",
-                  label: "Aris Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0014_aris-mining.png",
-                  label: "Equinox Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0015_goldrock.png",
-                  label: "Goldrock",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/orion-new_0000_ceibo.png",
-                  label: "Ceido",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/latin-america/latin-america_0016_premier-gold-mines.png",
-                  label: "Goldrock",
-                },
-              ],
-            },
-            {
-              heading: "UK & Europe",
-              amount: 11,
-              cords: { x: 750, y: 60 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0000_tungsten-west.png",
-                  label: "Tungsten West",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0001_trident-royalties.png",
-                  label: "Trident Royalties",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0002_sydvaranger.png",
-                  label: "Sydvaranger",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0003_nordic-mining.png",
-                  label: "Nordic Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0004_lynx-resources.png",
-                  label: "Lynx Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0005_edgewater-exploration-ltd.png",
-                  label: "Edgewater Exploration Ltd",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0006_dalradian-resources.png",
-                  label: "Dalradian Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0007_central-asia-metals.png",
-                  label: "Central Asia Metals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0008_atalaya-mining.png",
-                  label: "Atalaya Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/uk/uk_0009_adriatic-metals.png",
-                  label: "Adriatic Metals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0000_lydian-international.png",
-                  label: "Lydian International",
-                },
-              ],
-            },
-            {
-              heading: "Middle East & Africa",
-              amount: 10,
-              cords: { x: 850, y: 230 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0000_weatherly-interntional.png",
-                  label: "Weatherly International",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0001_sedibelo-resources.png",
-                  label: "Sedibelo Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0003_ivanhoe-mines.png",
-                  label: "IvanHoe Mines",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0004_hpxploration.png",
-                  label: "HPXploration",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0005_edgewater-exploration-ltd.png",
-                  label: "Edgewater Exploration",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0006_bushveld-minerals.png",
-                  label: "Bushveld Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0007_blyvoor-gold.png",
-                  label: "Blyvoor Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0008_alufer.png",
-                  label: "Alufer",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0009_allied-gold.png",
-                  label: "Allied Gold",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/middle-east-africa/middle-east-africa_0010_aldridge-minerals.png",
-                  label: "Aldridge Minerals",
-                },
-              ],
-            },
-            {
-              heading: "Asia Pacific",
-              amount: 6,
-              cords: { x: 1370, y: 445 },
-              btn: {
-                label: "Contact us for more information",
-                url: "/contact",
-              },
-              companies: [
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0001_blackham-resources.png",
-                  label: "Blackham Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0002_geopacific-resources.png",
-                  label: "Geopacific Resources",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0003_kimberley-mineral-sands.png",
-                  label: "Kimberley Mineral Sands",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0004_horizon-minerals.png",
-                  label: "Horizon Minerals",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0005_dart-mining.png",
-                  label: "Dart Mining",
-                },
-                {
-                  image:
-                    "/images/portfolio-companies/asia/asia_0006_develop-global.png",
-                  label: "Develop Global",
-                },
-              ],
-            },
+            // {
+            //   heading: "UNITED STATES",
+            //   amount: 21,
+            //   cords: { x: 300, y: 190 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0007_nevada-copper.png",
+            //       label: "Nevada Copper",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0000_i-80-gold-corp.png",
+            //       label: "i 80 Gold Corp",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0001_uniformity-labs.png",
+            //       label: "Uniformity Labs",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0002_incoa-performace-minerals.png",
+            //       label: "Incoa Performance Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0003_sweetwater-royalties.png",
+            //       label: "Sweetwater Royalties, Colorado",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0004_equinox-gold.png",
+            //       label: "Equinox Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0005_terraco.png",
+            //       label: "Terraco",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0006_rio-tinto.png",
+            //       label: "Rio Tinto, Montana",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0007_rigel-resources.png",
+            //       label: "Rigel Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0008_ivanhoe-electric.png",
+            //       label: "Ivanhoe Electric, Utah",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0009_highland-copper-company.png",
+            //       label: "Highland Copper Company",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0010_lithium-americas.png",
+            //       label: "Lithium Americas",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0011_orla-mining.png",
+            //       label: "Orla Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0012_aquila-resources.png",
+            //       label: "Aquila Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0015_premier-gold-mines.png",
+            //       label: "Premier Gold Mines",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0014_americas-bullion.png",
+            //       label: "Americas Bullion",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/north-america_0013_oracle.png",
+            //       label: "Oracle",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/orion-new_0001_jetti.png",
+            //       label: "Jetti",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/orion-new_0002_verai.png",
+            //       label: "Verai",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/orion-new_0003_thea-energy.png",
+            //       label: "Thea Energy",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/north-america/orion-new_0004_rondo.png",
+            //       label: "Rondo",
+            //     },
+            //   ],
+            // },
+            // {
+            //   heading: "CANADA",
+            //   amount: 24,
+            //   cords: { x: 240, y: 110 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0000_strategic-metals.png",
+            //       label: "Strategic Metals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0001_stornoway.png",
+            //       label: "Stornoway",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0002_tacora.png",
+            //       label: "Tacora",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0003_victoria-gold-corp.png",
+            //       label: "Victoria Gold Corp",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0004_western-copper-gold.png",
+            //       label: "Western Copper Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0005_sandstorm-gold.png",
+            //       label: "Sandstorm Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0006_sabina-gold-silver.png",
+            //       label: "Sabina Gold Silver",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0008_revival-gold.png",
+            //       label: "Revival Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0009_pretium.png",
+            //       label: "Pretium",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0010_nickel-creek-platinum.png",
+            //       label: "Nickel Creek Platinum",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0011_nemaska-lithium.png",
+            //       label: "Nemaska Lithium",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0012_kiska-metals-corp.png",
+            //       label: "Kiska Metals Corp",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0013_harte-gold-corp.png",
+            //       label: "Harte Gold Corp",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0014_greenstone-gold.png",
+            //       label: "Greenstone Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0015_golden-predator.png",
+            //       label: "Golden Predator",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0016_filo-mining.png",
+            //       label: "Filo Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0017_eurosun-mining.png",
+            //       label: "Eurosun Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0018_edgewater-exploration.png",
+            //       label: "Edgewater Exploration",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0019_dundee-precious-metals.png",
+            //       label: "Dundee Precious Metals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0020_dore-copper-mining.png",
+            //       label: "Dore Copper Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0021_bmc-minerals.png",
+            //       label: "BMC Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0022_claude-resources.png",
+            //       label: "Claude Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0024_rnc-royal-nickel.png",
+            //       label: "RNC Royal Nickel",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/canada/canada_0025_colossus-minerals-inc.png",
+            //       label: "Colossus Minerals Inc",
+            //     },
+            //   ],
+            // },
+            // {
+            //   heading: "Latin America",
+            //   amount: 16,
+            //   cords: { x: 370, y: 380 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0000_equinox-gold.png",
+            //       label: "Minera la Negra",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0001_minera-la-negra.png",
+            //       label: "Incoa Performance Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0002_incoa-performace-minerals.png",
+            //       label: "Equinox Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/middle-east-africa_0009_allied-gold.png",
+            //       label: "Allied Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0004_rio-tinto.png",
+            //       label: "Serra Verde",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0005_serra-verde.png",
+            //       label: "Lundin Gold Inc",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0006_lundin-gold-inc.png",
+            //       label: "Lundin Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0008_red-eagle-exploration.png",
+            //       label: "Horizonte Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0009_horizonte-minerals.png",
+            //       label: "Go Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0010_go-gold.png",
+            //       label: "Go Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0012_capstone-copper.png",
+            //       label: "Aurcana Corporation",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0013_aurcana-corporation.png",
+            //       label: "Aris Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0014_aris-mining.png",
+            //       label: "Equinox Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0015_goldrock.png",
+            //       label: "Goldrock",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/orion-new_0000_ceibo.png",
+            //       label: "Ceido",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/latin-america/latin-america_0016_premier-gold-mines.png",
+            //       label: "Goldrock",
+            //     },
+            //   ],
+            // },
+            // {
+            //   heading: "UK & Europe",
+            //   amount: 11,
+            //   cords: { x: 750, y: 60 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0000_tungsten-west.png",
+            //       label: "Tungsten West",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0001_trident-royalties.png",
+            //       label: "Trident Royalties",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0002_sydvaranger.png",
+            //       label: "Sydvaranger",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0003_nordic-mining.png",
+            //       label: "Nordic Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0004_lynx-resources.png",
+            //       label: "Lynx Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0005_edgewater-exploration-ltd.png",
+            //       label: "Edgewater Exploration Ltd",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0006_dalradian-resources.png",
+            //       label: "Dalradian Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0007_central-asia-metals.png",
+            //       label: "Central Asia Metals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0008_atalaya-mining.png",
+            //       label: "Atalaya Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/uk/uk_0009_adriatic-metals.png",
+            //       label: "Adriatic Metals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0000_lydian-international.png",
+            //       label: "Lydian International",
+            //     },
+            //   ],
+            // },
+            // {
+            //   heading: "Middle East & Africa",
+            //   amount: 10,
+            //   cords: { x: 850, y: 230 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0000_weatherly-interntional.png",
+            //       label: "Weatherly International",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0001_sedibelo-resources.png",
+            //       label: "Sedibelo Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0003_ivanhoe-mines.png",
+            //       label: "IvanHoe Mines",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0004_hpxploration.png",
+            //       label: "HPXploration",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0005_edgewater-exploration-ltd.png",
+            //       label: "Edgewater Exploration",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0006_bushveld-minerals.png",
+            //       label: "Bushveld Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0007_blyvoor-gold.png",
+            //       label: "Blyvoor Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0008_alufer.png",
+            //       label: "Alufer",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0009_allied-gold.png",
+            //       label: "Allied Gold",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/middle-east-africa/middle-east-africa_0010_aldridge-minerals.png",
+            //       label: "Aldridge Minerals",
+            //     },
+            //   ],
+            // },
+            // {
+            //   heading: "Asia Pacific",
+            //   amount: 6,
+            //   cords: { x: 1370, y: 445 },
+            //   btn: {
+            //     label: "Contact us for more information",
+            //     url: "/contact",
+            //   },
+            //   companies: [
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0001_blackham-resources.png",
+            //       label: "Blackham Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0002_geopacific-resources.png",
+            //       label: "Geopacific Resources",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0003_kimberley-mineral-sands.png",
+            //       label: "Kimberley Mineral Sands",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0004_horizon-minerals.png",
+            //       label: "Horizon Minerals",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0005_dart-mining.png",
+            //       label: "Dart Mining",
+            //     },
+            //     {
+            //       image:
+            //         "/images/portfolio-companies/asia/asia_0006_develop-global.png",
+            //       label: "Develop Global",
+            //     },
+            //   ],
+            // },
           ],
         },
       };
@@ -25947,47 +25947,47 @@
                         }),
                       ],
                     }),
-                    (0, n.jsx)("div", {
-                      className: "wrapper mt-32",
-                      children: (0, n.jsxs)("div", {
-                        className: "grid md:grid-cols-3 gap-32",
-                        children: [
-                          (0, n.jsx)("div", {
-                            className: "md:col-span-2",
-                            children: (0, n.jsxs)("div", {
-                              className:
-                                "max-w-lg ml-auto text-center md:text-right space-y-2 md:space-y-8",
-                              children: [
-                                (0, n.jsx)(h.E.h3, {
-                                  variants: C.YX,
-                                  initial: "hidden",
-                                  whileInView: "visible",
-                                  className:
-                                    "font-serif text-3xl md:text-4xl text-gold",
-                                  children: d.tailored.heading,
-                                }),
-                                (0, n.jsx)(h.E.p, {
-                                  variants: C.SF,
-                                  initial: "hidden",
-                                  whileInView: "visible",
-                                  children: d.tailored.body,
-                                }),
-                              ],
-                            }),
-                          }),
-                          (0, n.jsx)("div", {
-                            className:
-                              "md:-mb-56 aspect-square md:aspect-auto overflow-hidden md:overflow-auto w-full -mb-[25vw]",
-                            children: (0, n.jsx)(v.Z, {
-                              src: y,
-                              alt: "Investment solutions Image",
-                              direction: "right",
-                              className: "w-full",
-                            }),
-                          }),
-                        ],
-                      }),
-                    }),
+                    // (0, n.jsx)("div", {
+                    //   className: "wrapper mt-32",
+                    //   children: (0, n.jsxs)("div", {
+                    //     className: "grid md:grid-cols-3 gap-32",
+                    //     children: [
+                    //       (0, n.jsx)("div", {
+                    //         className: "md:col-span-2",
+                    //         children: (0, n.jsxs)("div", {
+                    //           className:
+                    //             "max-w-lg ml-auto text-center md:text-right space-y-2 md:space-y-8",
+                    //           children: [
+                    //             (0, n.jsx)(h.E.h3, {
+                    //               variants: C.YX,
+                    //               initial: "hidden",
+                    //               whileInView: "visible",
+                    //               className:
+                    //                 "font-serif text-3xl md:text-4xl text-gold",
+                    //               children: d.tailored.heading,
+                    //             }),
+                    //             (0, n.jsx)(h.E.p, {
+                    //               variants: C.SF,
+                    //               initial: "hidden",
+                    //               whileInView: "visible",
+                    //               children: d.tailored.body,
+                    //             }),
+                    //           ],
+                    //         }),
+                    //       }),
+                    //       (0, n.jsx)("div", {
+                    //         className:
+                    //           "md:-mb-56 aspect-square md:aspect-auto overflow-hidden md:overflow-auto w-full -mb-[25vw]",
+                    //         children: (0, n.jsx)(v.Z, {
+                    //           src: y,
+                    //           alt: "Investment solutions Image",
+                    //           direction: "right",
+                    //           className: "w-full",
+                    //         }),
+                    //       }),
+                    //     ],
+                    //   }),
+                    // }),
                   ],
                 }),
                 (0, n.jsx)("section", {
